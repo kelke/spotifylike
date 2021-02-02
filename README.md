@@ -8,9 +8,9 @@ https://autohotkey.com/download/ahk-install.exe
 Feel free to add your own Language tho :)
 
 ## Usage
-if you have a Mouse like the MX-Master or any other Peripheral that can be customized, just remap a button to launch this script and it should work fine
+if you have a Mouse like the MX-Master or any other Peripheral that can be customized, just remap a button to launch this script and this should work fine
 
 ### Credit
 Most of the code is wirtten by GollyJer at:  
-https://superuser.com/questions/1263856/is-there-a-keyboard-shortcut-for-save-to-your-library-in-spotifys-desktop-app#:~:text=That's%20it.,be%20added%20to%20your%20library!
+https://superuser.com/questions/1263856/is-there-a-keyboard-shortcut-for-save-to-your-library-in-spotifys-desktop-app#:~:text=Here%20is%20an%20AutoHotkey%20script  
 and modified by me :)
