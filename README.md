@@ -1,6 +1,6 @@
 # spotifylike
 Likes the currently playing Spotify Song.  
-Since this is a ahk script you need to donwload AutoHotkey and it only works on Windows  
+Since this is an ahk script you need to donwload AutoHotkey and it only works on Windows  
 https://autohotkey.com/download/ahk-install.exe
 
 
